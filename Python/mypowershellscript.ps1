@@ -1,1 +1,1 @@
-Get-Service
+Test-NetConnection 8.8.8.8 -port 443
